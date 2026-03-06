@@ -87,3 +87,12 @@ A Kanban-style view of the funnel, with an auto-reject threshold for low-effort 
 
 ## License & Availability
 **Private / Commercial Software**. This project is currently deployed internally. The source code is proprietary. This repository serves as a technical showcase of the architecture and product design.
+
+### 💬 Interested in BioRecruit?
+
+This system is currently in active development and deployed internally. If you're a founder dealing with high-volume hiring and interested in learning more about BioRecruit or exploring a custom deployment, feel free to reach out:
+
+📧 **yas.feraru@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/yasmyna-feraru)
+
+*Note: Any commercial licensing or deployment would be subject to approval and partnership discussions.*
